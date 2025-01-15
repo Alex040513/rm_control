@@ -33,5 +33,6 @@ bool key_x
 bool key_c
 bool key_v
 bool key_b
-
+bool rc_is_open
 time stamp
+
