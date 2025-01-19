@@ -1,7 +1,8 @@
 uint8 RATE = 0
 uint8 TRACK = 1
 uint8 DIRECT = 2
-uint8 TRAJ = 3
+uint8 FOLLOW = 3
+uint8 TRAJ = 4
 
 time stamp
 uint8 mode
